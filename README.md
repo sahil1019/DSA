@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/sahil1019/DSA/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/sahil1019/DSA/tree/master/0385-mini-parser) |
+| [0386-lexicographical-numbers](https://github.com/sahil1019/DSA/tree/master/0386-lexicographical-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0385-mini-parser](https://github.com/sahil1019/DSA/tree/master/0385-mini-parser) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/sahil1019/DSA/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
