@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahil1019/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0383-ransom-note](https://github.com/sahil1019/DSA/tree/master/0383-ransom-note) |
+| [0385-mini-parser](https://github.com/sahil1019/DSA/tree/master/0385-mini-parser) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/sahil1019/DSA/tree/master/0365-water-and-jug-problem) |
+| [0385-mini-parser](https://github.com/sahil1019/DSA/tree/master/0385-mini-parser) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/sahil1019/DSA/tree/master/0383-ransom-note) |
+## Stack
+|  |
+| ------- |
+| [0385-mini-parser](https://github.com/sahil1019/DSA/tree/master/0385-mini-parser) |
 <!---LeetCode Topics End-->
