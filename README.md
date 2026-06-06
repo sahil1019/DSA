@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/sahil1019/DSA/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/sahil1019/DSA/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/sahil1019/DSA/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/sahil1019/DSA/tree/master/0397-integer-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/sahil1019/DSA/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/sahil1019/DSA/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/sahil1019/DSA/tree/master/0393-utf-8-validation) |
+| [0397-integer-replacement](https://github.com/sahil1019/DSA/tree/master/0397-integer-replacement) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0376-wiggle-subsequence](https://github.com/sahil1019/DSA/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/sahil1019/DSA/tree/master/0397-integer-replacement) |
 ## Matrix
 |  |
 | ------- |
@@ -192,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/sahil1019/DSA/tree/master/0392-is-subsequence) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/sahil1019/DSA/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
