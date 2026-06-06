@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/sahil1019/DSA/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahil1019/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sahil1019/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sahil1019/DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sahil1019/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahil1019/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sahil1019/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sahil1019/DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Linked List
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/sahil1019/DSA/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/sahil1019/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sahil1019/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sahil1019/DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Recursion
 |  |
 | ------- |
@@ -51,10 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/sahil1019/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sahil1019/DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Randomized
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/sahil1019/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sahil1019/DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Depth-First Search
 |  |
 | ------- |
