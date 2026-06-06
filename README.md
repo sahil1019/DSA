@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sahil1019/DSA/tree/master/0002-add-two-numbers) |
 | [0390-elimination-game](https://github.com/sahil1019/DSA/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/sahil1019/DSA/tree/master/0394-decode-string) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0388-longest-absolute-file-path](https://github.com/sahil1019/DSA/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/sahil1019/DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/sahil1019/DSA/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/sahil1019/DSA/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0385-mini-parser](https://github.com/sahil1019/DSA/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/sahil1019/DSA/tree/master/0388-longest-absolute-file-path) |
+| [0394-decode-string](https://github.com/sahil1019/DSA/tree/master/0394-decode-string) |
 ## Trie
 |  |
 | ------- |
