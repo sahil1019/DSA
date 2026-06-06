@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/sahil1019/DSA/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/sahil1019/DSA/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/sahil1019/DSA/tree/master/0368-largest-divisible-subset) |
+| [0371-sum-of-two-integers](https://github.com/sahil1019/DSA/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sahil1019/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
 |  |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/sahil1019/DSA/tree/master/0368-largest-divisible-subset) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/sahil1019/DSA/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
