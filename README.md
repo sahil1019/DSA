@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/sahil1019/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sahil1019/DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/sahil1019/DSA/tree/master/0384-shuffle-an-array) |
+| [0391-perfect-rectangle](https://github.com/sahil1019/DSA/tree/master/0391-perfect-rectangle) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sahil1019/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahil1019/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sahil1019/DSA/tree/master/0389-find-the-difference) |
+| [0391-perfect-rectangle](https://github.com/sahil1019/DSA/tree/master/0391-perfect-rectangle) |
 ## Linked List
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/sahil1019/DSA/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/sahil1019/DSA/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/sahil1019/DSA/tree/master/0390-elimination-game) |
+| [0391-perfect-rectangle](https://github.com/sahil1019/DSA/tree/master/0391-perfect-rectangle) |
 ## Recursion
 |  |
 | ------- |
@@ -163,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sahil1019/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/sahil1019/DSA/tree/master/0391-perfect-rectangle) |
+## Sweep Line
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/sahil1019/DSA/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
