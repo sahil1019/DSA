@@ -45,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sahil1019/DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/sahil1019/DSA/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/sahil1019/DSA/tree/master/0384-shuffle-an-array) |
+| [0390-elimination-game](https://github.com/sahil1019/DSA/tree/master/0390-elimination-game) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sahil1019/DSA/tree/master/0002-add-two-numbers) |
+| [0390-elimination-game](https://github.com/sahil1019/DSA/tree/master/0390-elimination-game) |
 ## String
 |  |
 | ------- |
