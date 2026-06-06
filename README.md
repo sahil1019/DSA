@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sahil1019/DSA/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/sahil1019/DSA/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahil1019/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0388-longest-absolute-file-path](https://github.com/sahil1019/DSA/tree/master/0388-longest-absolute-file-path) |
 ## Sliding Window
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/sahil1019/DSA/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/sahil1019/DSA/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/sahil1019/DSA/tree/master/0386-lexicographical-numbers) |
+| [0388-longest-absolute-file-path](https://github.com/sahil1019/DSA/tree/master/0388-longest-absolute-file-path) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0385-mini-parser](https://github.com/sahil1019/DSA/tree/master/0385-mini-parser) |
+| [0388-longest-absolute-file-path](https://github.com/sahil1019/DSA/tree/master/0388-longest-absolute-file-path) |
 ## Trie
 |  |
 | ------- |
