@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/sahil1019/DSA/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/sahil1019/DSA/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/sahil1019/DSA/tree/master/0393-utf-8-validation) |
+| [0396-rotate-function](https://github.com/sahil1019/DSA/tree/master/0396-rotate-function) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/sahil1019/DSA/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/sahil1019/DSA/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/sahil1019/DSA/tree/master/0391-perfect-rectangle) |
+| [0396-rotate-function](https://github.com/sahil1019/DSA/tree/master/0396-rotate-function) |
 ## Recursion
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/sahil1019/DSA/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/sahil1019/DSA/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/sahil1019/DSA/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/sahil1019/DSA/tree/master/0396-rotate-function) |
 ## Sorting
 |  |
 | ------- |
