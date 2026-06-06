@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sahil1019/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/sahil1019/DSA/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/sahil1019/DSA/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/sahil1019/DSA/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/sahil1019/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/sahil1019/DSA/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/sahil1019/DSA/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/sahil1019/DSA/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/sahil1019/DSA/tree/master/0391-perfect-rectangle) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/sahil1019/DSA/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
