@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahil1019/DSA/tree/master/0001-two-sum) |
+| [0368-largest-divisible-subset](https://github.com/sahil1019/DSA/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sahil1019/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sahil1019/DSA/tree/master/0002-add-two-numbers) |
 | [0365-water-and-jug-problem](https://github.com/sahil1019/DSA/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/sahil1019/DSA/tree/master/0367-valid-perfect-square) |
+| [0368-largest-divisible-subset](https://github.com/sahil1019/DSA/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sahil1019/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
 |  |
@@ -62,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0368-largest-divisible-subset](https://github.com/sahil1019/DSA/tree/master/0368-largest-divisible-subset) |
+## Sorting
+|  |
+| ------- |
+| [0368-largest-divisible-subset](https://github.com/sahil1019/DSA/tree/master/0368-largest-divisible-subset) |
 <!---LeetCode Topics End-->
