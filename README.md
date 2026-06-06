@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sahil1019/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sahil1019/DSA/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/sahil1019/DSA/tree/master/0391-perfect-rectangle) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sahil1019/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -67,10 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sahil1019/DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/sahil1019/DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/sahil1019/DSA/tree/master/0394-decode-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sahil1019/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahil1019/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sahil1019/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Design
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/sahil1019/DSA/tree/master/0372-super-pow) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sahil1019/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
