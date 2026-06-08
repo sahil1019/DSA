@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/sahil1019/DSA/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/sahil1019/DSA/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/sahil1019/DSA/tree/master/0398-random-pick-index) |
+| [0400-nth-digit](https://github.com/sahil1019/DSA/tree/master/0400-nth-digit) |
 ## Recursion
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/sahil1019/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/sahil1019/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahil1019/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0400-nth-digit](https://github.com/sahil1019/DSA/tree/master/0400-nth-digit) |
 ## Prefix Sum
 |  |
 | ------- |
