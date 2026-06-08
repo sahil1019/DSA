@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sahil1019/DSA/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/sahil1019/DSA/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/sahil1019/DSA/tree/master/0397-integer-replacement) |
+| [0401-binary-watch](https://github.com/sahil1019/DSA/tree/master/0401-binary-watch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -221,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/sahil1019/DSA/tree/master/0399-evaluate-division) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/sahil1019/DSA/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
