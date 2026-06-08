@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/sahil1019/DSA/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sahil1019/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/sahil1019/DSA/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/sahil1019/DSA/tree/master/0402-remove-k-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0376-wiggle-subsequence](https://github.com/sahil1019/DSA/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/sahil1019/DSA/tree/master/0397-integer-replacement) |
+| [0402-remove-k-digits](https://github.com/sahil1019/DSA/tree/master/0402-remove-k-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/sahil1019/DSA/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/sahil1019/DSA/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/sahil1019/DSA/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/sahil1019/DSA/tree/master/0402-remove-k-digits) |
 ## Trie
 |  |
 | ------- |
@@ -226,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/sahil1019/DSA/tree/master/0401-binary-watch) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/sahil1019/DSA/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
