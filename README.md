@@ -105,11 +105,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/sahil1019/DSA/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/sahil1019/DSA/tree/master/0388-longest-absolute-file-path) |
 | [0399-evaluate-division](https://github.com/sahil1019/DSA/tree/master/0399-evaluate-division) |
+| [0404-sum-of-left-leaves](https://github.com/sahil1019/DSA/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/sahil1019/DSA/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/sahil1019/DSA/tree/master/0399-evaluate-division) |
+| [0404-sum-of-left-leaves](https://github.com/sahil1019/DSA/tree/master/0404-sum-of-left-leaves) |
 ## Binary Search
 |  |
 | ------- |
@@ -235,4 +237,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/sahil1019/DSA/tree/master/0402-remove-k-digits) |
+## Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/sahil1019/DSA/tree/master/0404-sum-of-left-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/sahil1019/DSA/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
