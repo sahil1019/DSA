@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sahil1019/DSA/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/sahil1019/DSA/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sahil1019/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0398-random-pick-index](https://github.com/sahil1019/DSA/tree/master/0398-random-pick-index) |
 ## Linked List
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/sahil1019/DSA/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/sahil1019/DSA/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/sahil1019/DSA/tree/master/0396-rotate-function) |
+| [0398-random-pick-index](https://github.com/sahil1019/DSA/tree/master/0398-random-pick-index) |
 ## Recursion
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sahil1019/DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/sahil1019/DSA/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/sahil1019/DSA/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/sahil1019/DSA/tree/master/0398-random-pick-index) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/sahil1019/DSA/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/sahil1019/DSA/tree/master/0398-random-pick-index) |
 ## Counting
 |  |
 | ------- |
