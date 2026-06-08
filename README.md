@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/sahil1019/DSA/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/sahil1019/DSA/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/sahil1019/DSA/tree/master/0400-nth-digit) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/sahil1019/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sahil1019/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/sahil1019/DSA/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/sahil1019/DSA/tree/master/0402-remove-k-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/sahil1019/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/sahil1019/DSA/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/sahil1019/DSA/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/sahil1019/DSA/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/sahil1019/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Divide and Conquer
 |  |
 | ------- |
