@@ -287,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/sahil1019/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sahil1019/DSA/tree/master/0415-add-strings) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/sahil1019/DSA/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
