@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/sahil1019/DSA/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/sahil1019/DSA/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/sahil1019/DSA/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/sahil1019/DSA/tree/master/0410-split-array-largest-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
@@ -128,9 +129,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/sahil1019/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahil1019/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/sahil1019/DSA/tree/master/0400-nth-digit) |
+| [0410-split-array-largest-sum](https://github.com/sahil1019/DSA/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/sahil1019/DSA/tree/master/0410-split-array-largest-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Dynamic Programming
 |  |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/sahil1019/DSA/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/sahil1019/DSA/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/sahil1019/DSA/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/sahil1019/DSA/tree/master/0410-split-array-largest-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/sahil1019/DSA/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/sahil1019/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sahil1019/DSA/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/sahil1019/DSA/tree/master/0410-split-array-largest-sum) |
 ## Matrix
 |  |
 | ------- |
