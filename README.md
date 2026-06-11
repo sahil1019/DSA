@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/sahil1019/DSA/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/sahil1019/DSA/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sahil1019/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahil1019/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Recursion
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0388-longest-absolute-file-path](https://github.com/sahil1019/DSA/tree/master/0388-longest-absolute-file-path) |
 | [0399-evaluate-division](https://github.com/sahil1019/DSA/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/sahil1019/DSA/tree/master/0404-sum-of-left-leaves) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahil1019/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/sahil1019/DSA/tree/master/0404-sum-of-left-leaves) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahil1019/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
