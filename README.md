@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/sahil1019/DSA/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/sahil1019/DSA/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/sahil1019/DSA/tree/master/0406-queue-reconstruction-by-height) |
+| [0407-trapping-rain-water-ii](https://github.com/sahil1019/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/sahil1019/DSA/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/sahil1019/DSA/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/sahil1019/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/sahil1019/DSA/tree/master/0407-trapping-rain-water-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sahil1019/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahil1019/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/sahil1019/DSA/tree/master/0407-trapping-rain-water-ii) |
 ## Interactive
 |  |
 | ------- |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahil1019/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/sahil1019/DSA/tree/master/0407-trapping-rain-water-ii) |
 ## Reservoir Sampling
 |  |
 | ------- |
