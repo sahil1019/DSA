@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/sahil1019/DSA/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/sahil1019/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/sahil1019/DSA/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/sahil1019/DSA/tree/master/0413-arithmetic-slices) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahil1019/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sahil1019/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/sahil1019/DSA/tree/master/0413-arithmetic-slices) |
 ## Design
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/sahil1019/DSA/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/sahil1019/DSA/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/sahil1019/DSA/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/sahil1019/DSA/tree/master/0413-arithmetic-slices) |
 ## Sorting
 |  |
 | ------- |
