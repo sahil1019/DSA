@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sahil1019/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/sahil1019/DSA/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/sahil1019/DSA/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/sahil1019/DSA/tree/master/0456-132-pattern) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sahil1019/DSA/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/sahil1019/DSA/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/sahil1019/DSA/tree/master/0441-arranging-coins) |
+| [0456-132-pattern](https://github.com/sahil1019/DSA/tree/master/0456-132-pattern) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/sahil1019/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/sahil1019/DSA/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/sahil1019/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/sahil1019/DSA/tree/master/0456-132-pattern) |
 ## Trie
 |  |
 | ------- |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/sahil1019/DSA/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/sahil1019/DSA/tree/master/0456-132-pattern) |
 ## Tree
 |  |
 | ------- |
@@ -410,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sahil1019/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/sahil1019/DSA/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
