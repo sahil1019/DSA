@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sahil1019/DSA/tree/master/0002-add-two-numbers) |
 | [0382-linked-list-random-node](https://github.com/sahil1019/DSA/tree/master/0382-linked-list-random-node) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sahil1019/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/sahil1019/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sahil1019/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/sahil1019/DSA/tree/master/0419-battleships-in-a-board) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sahil1019/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahil1019/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
@@ -332,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sahil1019/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/sahil1019/DSA/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/sahil1019/DSA/tree/master/1683-invalid-tweets) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sahil1019/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
