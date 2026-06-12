@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/sahil1019/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/sahil1019/DSA/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sahil1019/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/sahil1019/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/sahil1019/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/sahil1019/DSA/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sahil1019/DSA/tree/master/0449-serialize-and-deserialize-bst) |
+| [0451-sort-characters-by-frequency](https://github.com/sahil1019/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/sahil1019/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/sahil1019/DSA/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sahil1019/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/sahil1019/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahil1019/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/sahil1019/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0420-strong-password-checker](https://github.com/sahil1019/DSA/tree/master/0420-strong-password-checker) |
+| [0451-sort-characters-by-frequency](https://github.com/sahil1019/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Interactive
 |  |
 | ------- |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/sahil1019/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahil1019/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/sahil1019/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Stack
 |  |
 | ------- |
@@ -390,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/sahil1019/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/sahil1019/DSA/tree/master/0450-delete-node-in-a-bst) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sahil1019/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
