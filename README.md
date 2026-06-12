@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/sahil1019/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/sahil1019/DSA/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sahil1019/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0427-construct-quad-tree](https://github.com/sahil1019/DSA/tree/master/0427-construct-quad-tree) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0372-super-pow](https://github.com/sahil1019/DSA/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sahil1019/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0427-construct-quad-tree](https://github.com/sahil1019/DSA/tree/master/0427-construct-quad-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/sahil1019/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sahil1019/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/sahil1019/DSA/tree/master/0419-battleships-in-a-board) |
+| [0427-construct-quad-tree](https://github.com/sahil1019/DSA/tree/master/0427-construct-quad-tree) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/sahil1019/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0427-construct-quad-tree](https://github.com/sahil1019/DSA/tree/master/0427-construct-quad-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahil1019/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
