@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/sahil1019/DSA/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/sahil1019/DSA/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/sahil1019/DSA/tree/master/0477-total-hamming-distance) |
+| [0480-sliding-window-median](https://github.com/sahil1019/DSA/tree/master/0480-sliding-window-median) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/sahil1019/DSA/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/sahil1019/DSA/tree/master/0457-circular-array-loop) |
 | [0460-lfu-cache](https://github.com/sahil1019/DSA/tree/master/0460-lfu-cache) |
+| [0480-sliding-window-median](https://github.com/sahil1019/DSA/tree/master/0480-sliding-window-median) |
 ## Linked List
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/sahil1019/DSA/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahil1019/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sahil1019/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/sahil1019/DSA/tree/master/0480-sliding-window-median) |
 ## Design
 |  |
 | ------- |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/sahil1019/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0420-strong-password-checker](https://github.com/sahil1019/DSA/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/sahil1019/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0480-sliding-window-median](https://github.com/sahil1019/DSA/tree/master/0480-sliding-window-median) |
 ## Interactive
 |  |
 | ------- |
