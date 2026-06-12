@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sahil1019/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/sahil1019/DSA/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/sahil1019/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/sahil1019/DSA/tree/master/0436-find-right-interval) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahil1019/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/sahil1019/DSA/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/sahil1019/DSA/tree/master/0410-split-array-largest-sum) |
+| [0436-find-right-interval](https://github.com/sahil1019/DSA/tree/master/0436-find-right-interval) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/sahil1019/DSA/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/sahil1019/DSA/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/sahil1019/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/sahil1019/DSA/tree/master/0436-find-right-interval) |
 ## Bit Manipulation
 |  |
 | ------- |
