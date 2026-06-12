@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/sahil1019/DSA/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/sahil1019/DSA/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/sahil1019/DSA/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/sahil1019/DSA/tree/master/0474-ones-and-zeroes) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0467-unique-substrings-in-wraparound-string](https://github.com/sahil1019/DSA/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/sahil1019/DSA/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/sahil1019/DSA/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/sahil1019/DSA/tree/master/0474-ones-and-zeroes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0467-unique-substrings-in-wraparound-string](https://github.com/sahil1019/DSA/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/sahil1019/DSA/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/sahil1019/DSA/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/sahil1019/DSA/tree/master/0474-ones-and-zeroes) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Sorting
 |  |
