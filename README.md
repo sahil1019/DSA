@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/sahil1019/DSA/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sahil1019/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/sahil1019/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/sahil1019/DSA/tree/master/0459-repeated-substring-pattern) |
 ## Sliding Window
 |  |
 | ------- |
@@ -427,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/sahil1019/DSA/tree/master/0458-poor-pigs) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/sahil1019/DSA/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
