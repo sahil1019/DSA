@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/sahil1019/DSA/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sahil1019/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sahil1019/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0461-hamming-distance](https://github.com/sahil1019/DSA/tree/master/0461-hamming-distance) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Divide and Conquer
 |  |
