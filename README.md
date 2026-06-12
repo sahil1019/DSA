@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/sahil1019/DSA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/sahil1019/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sahil1019/DSA/tree/master/0415-add-strings) |
+| [0420-strong-password-checker](https://github.com/sahil1019/DSA/tree/master/0420-strong-password-checker) |
 ## Sliding Window
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sahil1019/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahil1019/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/sahil1019/DSA/tree/master/0407-trapping-rain-water-ii) |
+| [0420-strong-password-checker](https://github.com/sahil1019/DSA/tree/master/0420-strong-password-checker) |
 ## Interactive
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/sahil1019/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sahil1019/DSA/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/sahil1019/DSA/tree/master/0410-split-array-largest-sum) |
+| [0420-strong-password-checker](https://github.com/sahil1019/DSA/tree/master/0420-strong-password-checker) |
 ## Matrix
 |  |
 | ------- |
