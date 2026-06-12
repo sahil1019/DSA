@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/sahil1019/DSA/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sahil1019/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/sahil1019/DSA/tree/master/0464-can-i-win) |
+| [0470-implement-rand10-using-rand7](https://github.com/sahil1019/DSA/tree/master/0470-implement-rand10-using-rand7) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahil1019/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Recursion
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/sahil1019/DSA/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/sahil1019/DSA/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/sahil1019/DSA/tree/master/0398-random-pick-index) |
+| [0470-implement-rand10-using-rand7](https://github.com/sahil1019/DSA/tree/master/0470-implement-rand10-using-rand7) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -459,4 +461,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/sahil1019/DSA/tree/master/0464-can-i-win) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/sahil1019/DSA/tree/master/0470-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/sahil1019/DSA/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
