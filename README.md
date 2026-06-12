@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/sahil1019/DSA/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/sahil1019/DSA/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/sahil1019/DSA/tree/master/0474-ones-and-zeroes) |
+| [0475-heaters](https://github.com/sahil1019/DSA/tree/master/0475-heaters) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/sahil1019/DSA/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/sahil1019/DSA/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/sahil1019/DSA/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/sahil1019/DSA/tree/master/0475-heaters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sahil1019/DSA/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sahil1019/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/sahil1019/DSA/tree/master/0472-concatenated-words) |
+| [0475-heaters](https://github.com/sahil1019/DSA/tree/master/0475-heaters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sahil1019/DSA/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/sahil1019/DSA/tree/master/0457-circular-array-loop) |
 | [0466-count-the-repetitions](https://github.com/sahil1019/DSA/tree/master/0466-count-the-repetitions) |
+| [0475-heaters](https://github.com/sahil1019/DSA/tree/master/0475-heaters) |
 ## Memoization
 |  |
 | ------- |
