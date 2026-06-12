@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/sahil1019/DSA/tree/master/0457-circular-array-loop) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sahil1019/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/sahil1019/DSA/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/sahil1019/DSA/tree/master/0472-concatenated-words) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0466-count-the-repetitions](https://github.com/sahil1019/DSA/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/sahil1019/DSA/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/sahil1019/DSA/tree/master/0468-validate-ip-address) |
+| [0472-concatenated-words](https://github.com/sahil1019/DSA/tree/master/0472-concatenated-words) |
 ## Sliding Window
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/sahil1019/DSA/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sahil1019/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/sahil1019/DSA/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/sahil1019/DSA/tree/master/0472-concatenated-words) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahil1019/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/sahil1019/DSA/tree/master/0464-can-i-win) |
 | [0466-count-the-repetitions](https://github.com/sahil1019/DSA/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/sahil1019/DSA/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0472-concatenated-words](https://github.com/sahil1019/DSA/tree/master/0472-concatenated-words) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Sorting
 |  |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sahil1019/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/sahil1019/DSA/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sahil1019/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0472-concatenated-words](https://github.com/sahil1019/DSA/tree/master/0472-concatenated-words) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -342,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/sahil1019/DSA/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sahil1019/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/sahil1019/DSA/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0472-concatenated-words](https://github.com/sahil1019/DSA/tree/master/0472-concatenated-words) |
 ## Queue
 |  |
 | ------- |
