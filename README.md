@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sahil1019/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/sahil1019/DSA/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/sahil1019/DSA/tree/master/0457-circular-array-loop) |
+| [0460-lfu-cache](https://github.com/sahil1019/DSA/tree/master/0460-lfu-cache) |
 ## Linked List
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sahil1019/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/sahil1019/DSA/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/sahil1019/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/sahil1019/DSA/tree/master/0460-lfu-cache) |
 ## Math
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/sahil1019/DSA/tree/master/0384-shuffle-an-array) |
 | [0432-all-oone-data-structure](https://github.com/sahil1019/DSA/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sahil1019/DSA/tree/master/0449-serialize-and-deserialize-bst) |
+| [0460-lfu-cache](https://github.com/sahil1019/DSA/tree/master/0460-lfu-cache) |
 ## Randomized
 |  |
 | ------- |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sahil1019/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/sahil1019/DSA/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/sahil1019/DSA/tree/master/0460-lfu-cache) |
 ## Binary Search Tree
 |  |
 | ------- |
