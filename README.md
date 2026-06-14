@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0479-largest-palindrome-product](https://github.com/sahil1019/DSA/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/sahil1019/DSA/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/sahil1019/DSA/tree/master/0486-predict-the-winner) |
+| [0492-construct-the-rectangle](https://github.com/sahil1019/DSA/tree/master/0492-construct-the-rectangle) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahil1019/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Recursion
