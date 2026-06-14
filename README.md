@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/sahil1019/DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/sahil1019/DSA/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/sahil1019/DSA/tree/master/0500-keyboard-row) |
+| [0502-ipo](https://github.com/sahil1019/DSA/tree/master/0502-ipo) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sahil1019/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/sahil1019/DSA/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/sahil1019/DSA/tree/master/0475-heaters) |
+| [0502-ipo](https://github.com/sahil1019/DSA/tree/master/0502-ipo) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/sahil1019/DSA/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/sahil1019/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/sahil1019/DSA/tree/master/0480-sliding-window-median) |
+| [0502-ipo](https://github.com/sahil1019/DSA/tree/master/0502-ipo) |
 ## Interactive
 |  |
 | ------- |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/sahil1019/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sahil1019/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/sahil1019/DSA/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/sahil1019/DSA/tree/master/0502-ipo) |
 ## Matrix
 |  |
 | ------- |
