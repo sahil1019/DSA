@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/sahil1019/DSA/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/sahil1019/DSA/tree/master/0587-erect-the-fence) |
 | [0592-fraction-addition-and-subtraction](https://github.com/sahil1019/DSA/tree/master/0592-fraction-addition-and-subtraction) |
+| [0593-valid-square](https://github.com/sahil1019/DSA/tree/master/0593-valid-square) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahil1019/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Recursion
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/sahil1019/DSA/tree/master/0391-perfect-rectangle) |
 | [0478-generate-random-point-in-a-circle](https://github.com/sahil1019/DSA/tree/master/0478-generate-random-point-in-a-circle) |
 | [0587-erect-the-fence](https://github.com/sahil1019/DSA/tree/master/0587-erect-the-fence) |
+| [0593-valid-square](https://github.com/sahil1019/DSA/tree/master/0593-valid-square) |
 ## Sweep Line
 |  |
 | ------- |
