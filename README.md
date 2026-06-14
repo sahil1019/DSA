@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/sahil1019/DSA/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/sahil1019/DSA/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/sahil1019/DSA/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/sahil1019/DSA/tree/master/0496-next-greater-element-i) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/sahil1019/DSA/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/sahil1019/DSA/tree/master/0480-sliding-window-median) |
 | [0491-non-decreasing-subsequences](https://github.com/sahil1019/DSA/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/sahil1019/DSA/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/sahil1019/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/sahil1019/DSA/tree/master/0456-132-pattern) |
 | [0488-zuma-game](https://github.com/sahil1019/DSA/tree/master/0488-zuma-game) |
+| [0496-next-greater-element-i](https://github.com/sahil1019/DSA/tree/master/0496-next-greater-element-i) |
 ## Trie
 |  |
 | ------- |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/sahil1019/DSA/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/sahil1019/DSA/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/sahil1019/DSA/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
