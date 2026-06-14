@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/sahil1019/DSA/tree/master/0526-beautiful-arrangement) |
 | [0528-random-pick-with-weight](https://github.com/sahil1019/DSA/tree/master/0528-random-pick-with-weight) |
 | [0529-minesweeper](https://github.com/sahil1019/DSA/tree/master/0529-minesweeper) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/sahil1019/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/sahil1019/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/sahil1019/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/sahil1019/DSA/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/sahil1019/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/sahil1019/DSA/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/sahil1019/DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/sahil1019/DSA/tree/master/0528-random-pick-with-weight) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/sahil1019/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/sahil1019/DSA/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/sahil1019/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/sahil1019/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/sahil1019/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -497,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/sahil1019/DSA/tree/master/0481-magical-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/sahil1019/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/sahil1019/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/sahil1019/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Memoization
 |  |
 | ------- |
