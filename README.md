@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0517-super-washing-machines](https://github.com/sahil1019/DSA/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/sahil1019/DSA/tree/master/0518-coin-change-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/sahil1019/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0523-continuous-subarray-sum](https://github.com/sahil1019/DSA/tree/master/0523-continuous-subarray-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/sahil1019/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0519-random-flip-matrix](https://github.com/sahil1019/DSA/tree/master/0519-random-flip-matrix) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/sahil1019/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0523-continuous-subarray-sum](https://github.com/sahil1019/DSA/tree/master/0523-continuous-subarray-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/sahil1019/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/sahil1019/DSA/tree/master/0509-fibonacci-number) |
 | [0519-random-flip-matrix](https://github.com/sahil1019/DSA/tree/master/0519-random-flip-matrix) |
+| [0523-continuous-subarray-sum](https://github.com/sahil1019/DSA/tree/master/0523-continuous-subarray-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahil1019/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Recursion
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sahil1019/DSA/tree/master/0410-split-array-largest-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/sahil1019/DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0523-continuous-subarray-sum](https://github.com/sahil1019/DSA/tree/master/0523-continuous-subarray-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Dynamic Programming
 |  |
