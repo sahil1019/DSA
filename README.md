@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/sahil1019/DSA/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/sahil1019/DSA/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/sahil1019/DSA/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/sahil1019/DSA/tree/master/0486-predict-the-winner) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0478-generate-random-point-in-a-circle](https://github.com/sahil1019/DSA/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/sahil1019/DSA/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/sahil1019/DSA/tree/master/0483-smallest-good-base) |
+| [0486-predict-the-winner](https://github.com/sahil1019/DSA/tree/master/0486-predict-the-winner) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahil1019/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Recursion
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sahil1019/DSA/tree/master/0002-add-two-numbers) |
 | [0390-elimination-game](https://github.com/sahil1019/DSA/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/sahil1019/DSA/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/sahil1019/DSA/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/sahil1019/DSA/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/sahil1019/DSA/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/sahil1019/DSA/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/sahil1019/DSA/tree/master/0486-predict-the-winner) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Sorting
 |  |
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/sahil1019/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/sahil1019/DSA/tree/master/0464-can-i-win) |
+| [0486-predict-the-winner](https://github.com/sahil1019/DSA/tree/master/0486-predict-the-winner) |
 ## Greedy
 |  |
 | ------- |
