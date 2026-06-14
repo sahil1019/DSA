@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/sahil1019/DSA/tree/master/0528-random-pick-with-weight) |
 | [0529-minesweeper](https://github.com/sahil1019/DSA/tree/master/0529-minesweeper) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sahil1019/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/sahil1019/DSA/tree/master/0539-minimum-time-difference) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/sahil1019/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/sahil1019/DSA/tree/master/0528-random-pick-with-weight) |
 | [0537-complex-number-multiplication](https://github.com/sahil1019/DSA/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/sahil1019/DSA/tree/master/0539-minimum-time-difference) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahil1019/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Recursion
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/sahil1019/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0535-encode-and-decode-tinyurl](https://github.com/sahil1019/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/sahil1019/DSA/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/sahil1019/DSA/tree/master/0539-minimum-time-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/sahil1019/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/sahil1019/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sahil1019/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/sahil1019/DSA/tree/master/0539-minimum-time-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
