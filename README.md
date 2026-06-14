@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/sahil1019/DSA/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/sahil1019/DSA/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/sahil1019/DSA/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/sahil1019/DSA/tree/master/0575-distribute-candies) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/sahil1019/DSA/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/sahil1019/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sahil1019/DSA/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/sahil1019/DSA/tree/master/0575-distribute-candies) |
 ## Linked List
 |  |
 | ------- |
