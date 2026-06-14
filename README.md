@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/sahil1019/DSA/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/sahil1019/DSA/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sahil1019/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0587-erect-the-fence](https://github.com/sahil1019/DSA/tree/master/0587-erect-the-fence) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/sahil1019/DSA/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/sahil1019/DSA/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/sahil1019/DSA/tree/master/0564-find-the-closest-palindrome) |
+| [0587-erect-the-fence](https://github.com/sahil1019/DSA/tree/master/0587-erect-the-fence) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahil1019/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Recursion
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0391-perfect-rectangle](https://github.com/sahil1019/DSA/tree/master/0391-perfect-rectangle) |
 | [0478-generate-random-point-in-a-circle](https://github.com/sahil1019/DSA/tree/master/0478-generate-random-point-in-a-circle) |
+| [0587-erect-the-fence](https://github.com/sahil1019/DSA/tree/master/0587-erect-the-fence) |
 ## Sweep Line
 |  |
 | ------- |
