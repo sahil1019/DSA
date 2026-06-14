@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/sahil1019/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/sahil1019/DSA/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahil1019/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/sahil1019/DSA/tree/master/0542-01-matrix) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sahil1019/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/sahil1019/DSA/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sahil1019/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/sahil1019/DSA/tree/master/0542-01-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/sahil1019/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/sahil1019/DSA/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/sahil1019/DSA/tree/master/0526-beautiful-arrangement) |
+| [0542-01-matrix](https://github.com/sahil1019/DSA/tree/master/0542-01-matrix) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Sorting
 |  |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/sahil1019/DSA/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/sahil1019/DSA/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/sahil1019/DSA/tree/master/0529-minesweeper) |
+| [0542-01-matrix](https://github.com/sahil1019/DSA/tree/master/0542-01-matrix) |
 ## Reservoir Sampling
 |  |
 | ------- |
