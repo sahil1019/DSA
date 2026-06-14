@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/sahil1019/DSA/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/sahil1019/DSA/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/sahil1019/DSA/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/sahil1019/DSA/tree/master/0551-student-attendance-record-i) |
 ## Sliding Window
 |  |
 | ------- |
