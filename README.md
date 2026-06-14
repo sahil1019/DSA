@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/sahil1019/DSA/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/sahil1019/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/sahil1019/DSA/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/sahil1019/DSA/tree/master/0521-longest-uncommon-subsequence-i) |
 ## Sliding Window
 |  |
 | ------- |
