@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/sahil1019/DSA/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/sahil1019/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/sahil1019/DSA/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/sahil1019/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/sahil1019/DSA/tree/master/0457-circular-array-loop) |
 | [0460-lfu-cache](https://github.com/sahil1019/DSA/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/sahil1019/DSA/tree/master/0480-sliding-window-median) |
+| [0491-non-decreasing-subsequences](https://github.com/sahil1019/DSA/tree/master/0491-non-decreasing-subsequences) |
 ## Linked List
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/sahil1019/DSA/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/sahil1019/DSA/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/sahil1019/DSA/tree/master/0477-total-hamming-distance) |
+| [0491-non-decreasing-subsequences](https://github.com/sahil1019/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Divide and Conquer
 |  |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0401-binary-watch](https://github.com/sahil1019/DSA/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/sahil1019/DSA/tree/master/0473-matchsticks-to-square) |
+| [0491-non-decreasing-subsequences](https://github.com/sahil1019/DSA/tree/master/0491-non-decreasing-subsequences) |
 ## Monotonic Stack
 |  |
 | ------- |
