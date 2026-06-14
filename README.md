@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sahil1019/DSA/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/sahil1019/DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/sahil1019/DSA/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/sahil1019/DSA/tree/master/0500-keyboard-row) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/sahil1019/DSA/tree/master/0480-sliding-window-median) |
 | [0491-non-decreasing-subsequences](https://github.com/sahil1019/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/sahil1019/DSA/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/sahil1019/DSA/tree/master/0500-keyboard-row) |
 ## Linked List
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/sahil1019/DSA/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/sahil1019/DSA/tree/master/0482-license-key-formatting) |
 | [0488-zuma-game](https://github.com/sahil1019/DSA/tree/master/0488-zuma-game) |
+| [0500-keyboard-row](https://github.com/sahil1019/DSA/tree/master/0500-keyboard-row) |
 ## Sliding Window
 |  |
 | ------- |
