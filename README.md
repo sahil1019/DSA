@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/sahil1019/DSA/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/sahil1019/DSA/tree/master/0552-student-attendance-record-ii) |
 | [0553-optimal-division](https://github.com/sahil1019/DSA/tree/master/0553-optimal-division) |
+| [0576-out-of-boundary-paths](https://github.com/sahil1019/DSA/tree/master/0576-out-of-boundary-paths) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Sorting
 |  |
