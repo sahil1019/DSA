@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0519-random-flip-matrix](https://github.com/sahil1019/DSA/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/sahil1019/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/sahil1019/DSA/tree/master/0528-random-pick-with-weight) |
+| [0537-complex-number-multiplication](https://github.com/sahil1019/DSA/tree/master/0537-complex-number-multiplication) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahil1019/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Recursion
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/sahil1019/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/sahil1019/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0535-encode-and-decode-tinyurl](https://github.com/sahil1019/DSA/tree/master/0535-encode-and-decode-tinyurl) |
+| [0537-complex-number-multiplication](https://github.com/sahil1019/DSA/tree/master/0537-complex-number-multiplication) |
 ## Sliding Window
 |  |
 | ------- |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/sahil1019/DSA/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/sahil1019/DSA/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/sahil1019/DSA/tree/master/0498-diagonal-traverse) |
+| [0537-complex-number-multiplication](https://github.com/sahil1019/DSA/tree/master/0537-complex-number-multiplication) |
 ## Database
 |  |
 | ------- |
