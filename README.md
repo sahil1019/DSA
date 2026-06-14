@@ -722,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/sahil1019/DSA/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/sahil1019/DSA/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/sahil1019/DSA/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/sahil1019/DSA/tree/master/0619-biggest-single-number) |
 | [1068-product-sales-analysis-i](https://github.com/sahil1019/DSA/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/sahil1019/DSA/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sahil1019/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
