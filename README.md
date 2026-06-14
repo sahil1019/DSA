@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/sahil1019/DSA/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/sahil1019/DSA/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/sahil1019/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/sahil1019/DSA/tree/master/0561-array-partition) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/sahil1019/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sahil1019/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/sahil1019/DSA/tree/master/0539-minimum-time-difference) |
+| [0561-array-partition](https://github.com/sahil1019/DSA/tree/master/0561-array-partition) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sahil1019/DSA/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/sahil1019/DSA/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/sahil1019/DSA/tree/master/0517-super-washing-machines) |
+| [0561-array-partition](https://github.com/sahil1019/DSA/tree/master/0561-array-partition) |
 ## Matrix
 |  |
 | ------- |
@@ -704,4 +707,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/sahil1019/DSA/tree/master/0535-encode-and-decode-tinyurl) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/sahil1019/DSA/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
