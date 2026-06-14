@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0488-zuma-game](https://github.com/sahil1019/DSA/tree/master/0488-zuma-game) |
 | [0500-keyboard-row](https://github.com/sahil1019/DSA/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/sahil1019/DSA/tree/master/0504-base-7) |
+| [0514-freedom-trail](https://github.com/sahil1019/DSA/tree/master/0514-freedom-trail) |
 ## Sliding Window
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/sahil1019/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/sahil1019/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/sahil1019/DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [0514-freedom-trail](https://github.com/sahil1019/DSA/tree/master/0514-freedom-trail) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahil1019/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/sahil1019/DSA/tree/master/0463-island-perimeter) |
 | [0488-zuma-game](https://github.com/sahil1019/DSA/tree/master/0488-zuma-game) |
 | [0513-find-bottom-left-tree-value](https://github.com/sahil1019/DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [0514-freedom-trail](https://github.com/sahil1019/DSA/tree/master/0514-freedom-trail) |
 ## Binary Search
 |  |
 | ------- |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0488-zuma-game](https://github.com/sahil1019/DSA/tree/master/0488-zuma-game) |
 | [0494-target-sum](https://github.com/sahil1019/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/sahil1019/DSA/tree/master/0509-fibonacci-number) |
+| [0514-freedom-trail](https://github.com/sahil1019/DSA/tree/master/0514-freedom-trail) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Sorting
 |  |
