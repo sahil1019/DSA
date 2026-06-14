@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/sahil1019/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/sahil1019/DSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sahil1019/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0606-construct-string-from-binary-tree](https://github.com/sahil1019/DSA/tree/master/0606-construct-string-from-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/sahil1019/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/sahil1019/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/sahil1019/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0606-construct-string-from-binary-tree](https://github.com/sahil1019/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahil1019/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/sahil1019/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/sahil1019/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/sahil1019/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0606-construct-string-from-binary-tree](https://github.com/sahil1019/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahil1019/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sahil1019/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/sahil1019/DSA/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/sahil1019/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/sahil1019/DSA/tree/master/0606-construct-string-from-binary-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
