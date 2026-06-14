@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/sahil1019/DSA/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/sahil1019/DSA/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/sahil1019/DSA/tree/master/0506-relative-ranks) |
+| [0517-super-washing-machines](https://github.com/sahil1019/DSA/tree/master/0517-super-washing-machines) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sahil1019/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/sahil1019/DSA/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/sahil1019/DSA/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/sahil1019/DSA/tree/master/0517-super-washing-machines) |
 ## Matrix
 |  |
 | ------- |
