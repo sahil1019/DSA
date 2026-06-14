@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sahil1019/DSA/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/sahil1019/DSA/tree/master/0506-relative-ranks) |
 | [0517-super-washing-machines](https://github.com/sahil1019/DSA/tree/master/0517-super-washing-machines) |
+| [0518-coin-change-ii](https://github.com/sahil1019/DSA/tree/master/0518-coin-change-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/sahil1019/DSA/tree/master/0509-fibonacci-number) |
 | [0514-freedom-trail](https://github.com/sahil1019/DSA/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/sahil1019/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0518-coin-change-ii](https://github.com/sahil1019/DSA/tree/master/0518-coin-change-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Sorting
 |  |
