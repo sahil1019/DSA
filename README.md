@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/sahil1019/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/sahil1019/DSA/tree/master/0563-binary-tree-tilt) |
 | [0565-array-nesting](https://github.com/sahil1019/DSA/tree/master/0565-array-nesting) |
+| [0572-subtree-of-another-tree](https://github.com/sahil1019/DSA/tree/master/0572-subtree-of-another-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahil1019/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/sahil1019/DSA/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/sahil1019/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/sahil1019/DSA/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/sahil1019/DSA/tree/master/0572-subtree-of-another-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahil1019/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/sahil1019/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sahil1019/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/sahil1019/DSA/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/sahil1019/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -695,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/sahil1019/DSA/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/sahil1019/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Bitmask
 |  |
 | ------- |
@@ -722,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/sahil1019/DSA/tree/master/0535-encode-and-decode-tinyurl) |
+| [0572-subtree-of-another-tree](https://github.com/sahil1019/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Counting Sort
 |  |
 | ------- |
