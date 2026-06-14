@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/sahil1019/DSA/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/sahil1019/DSA/tree/master/0526-beautiful-arrangement) |
 | [0528-random-pick-with-weight](https://github.com/sahil1019/DSA/tree/master/0528-random-pick-with-weight) |
+| [0529-minesweeper](https://github.com/sahil1019/DSA/tree/master/0529-minesweeper) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/sahil1019/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/sahil1019/DSA/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sahil1019/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/sahil1019/DSA/tree/master/0529-minesweeper) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahil1019/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/sahil1019/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/sahil1019/DSA/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sahil1019/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/sahil1019/DSA/tree/master/0529-minesweeper) |
 ## Binary Search
 |  |
 | ------- |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/sahil1019/DSA/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/sahil1019/DSA/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/sahil1019/DSA/tree/master/0498-diagonal-traverse) |
+| [0529-minesweeper](https://github.com/sahil1019/DSA/tree/master/0529-minesweeper) |
 ## Reservoir Sampling
 |  |
 | ------- |
