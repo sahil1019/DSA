@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/sahil1019/DSA/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/sahil1019/DSA/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/sahil1019/DSA/tree/master/0496-next-greater-element-i) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/sahil1019/DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0483-smallest-good-base](https://github.com/sahil1019/DSA/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/sahil1019/DSA/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/sahil1019/DSA/tree/master/0492-construct-the-rectangle) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/sahil1019/DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahil1019/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Recursion
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/sahil1019/DSA/tree/master/0398-random-pick-index) |
 | [0470-implement-rand10-using-rand7](https://github.com/sahil1019/DSA/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/sahil1019/DSA/tree/master/0478-generate-random-point-in-a-circle) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/sahil1019/DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -253,10 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/sahil1019/DSA/tree/master/0475-heaters) |
 | [0483-smallest-good-base](https://github.com/sahil1019/DSA/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/sahil1019/DSA/tree/master/0493-reverse-pairs) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/sahil1019/DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sahil1019/DSA/tree/master/0410-split-array-largest-sum) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/sahil1019/DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Dynamic Programming
 |  |
@@ -371,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0382-linked-list-random-node](https://github.com/sahil1019/DSA/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/sahil1019/DSA/tree/master/0398-random-pick-index) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/sahil1019/DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Counting
 |  |
 | ------- |
@@ -514,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/sahil1019/DSA/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/sahil1019/DSA/tree/master/0493-reverse-pairs) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/sahil1019/DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Combinatorics
 |  |
 | ------- |
