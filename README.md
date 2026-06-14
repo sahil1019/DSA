@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sahil1019/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/sahil1019/DSA/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/sahil1019/DSA/tree/master/0565-array-nesting) |
+| [0566-reshape-the-matrix](https://github.com/sahil1019/DSA/tree/master/0566-reshape-the-matrix) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/sahil1019/DSA/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/sahil1019/DSA/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/sahil1019/DSA/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/sahil1019/DSA/tree/master/0566-reshape-the-matrix) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/sahil1019/DSA/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/sahil1019/DSA/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/sahil1019/DSA/tree/master/0537-complex-number-multiplication) |
+| [0566-reshape-the-matrix](https://github.com/sahil1019/DSA/tree/master/0566-reshape-the-matrix) |
 ## Database
 |  |
 | ------- |
