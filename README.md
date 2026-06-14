@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/sahil1019/DSA/tree/master/0506-relative-ranks) |
 | [0517-super-washing-machines](https://github.com/sahil1019/DSA/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/sahil1019/DSA/tree/master/0518-coin-change-ii) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/sahil1019/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/sahil1019/DSA/tree/master/0500-keyboard-row) |
 | [0508-most-frequent-subtree-sum](https://github.com/sahil1019/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0519-random-flip-matrix](https://github.com/sahil1019/DSA/tree/master/0519-random-flip-matrix) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/sahil1019/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/sahil1019/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/sahil1019/DSA/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/sahil1019/DSA/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/sahil1019/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/sahil1019/DSA/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/sahil1019/DSA/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/sahil1019/DSA/tree/master/0506-relative-ranks) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/sahil1019/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0466-count-the-repetitions](https://github.com/sahil1019/DSA/tree/master/0466-count-the-repetitions) |
 | [0475-heaters](https://github.com/sahil1019/DSA/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/sahil1019/DSA/tree/master/0481-magical-string) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/sahil1019/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Memoization
 |  |
 | ------- |
