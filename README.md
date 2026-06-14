@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/sahil1019/DSA/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/sahil1019/DSA/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/sahil1019/DSA/tree/master/0553-optimal-division) |
+| [0556-next-greater-element-iii](https://github.com/sahil1019/DSA/tree/master/0556-next-greater-element-iii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahil1019/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Recursion
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/sahil1019/DSA/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/sahil1019/DSA/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/sahil1019/DSA/tree/master/0551-student-attendance-record-i) |
+| [0556-next-greater-element-iii](https://github.com/sahil1019/DSA/tree/master/0556-next-greater-element-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/sahil1019/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sahil1019/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/sahil1019/DSA/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/sahil1019/DSA/tree/master/0556-next-greater-element-iii) |
 ## Memoization
 |  |
 | ------- |
