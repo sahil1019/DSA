@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/sahil1019/DSA/tree/master/0518-coin-change-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/sahil1019/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/sahil1019/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/sahil1019/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/sahil1019/DSA/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/sahil1019/DSA/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/sahil1019/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/sahil1019/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Sliding Window
 |  |
 | ------- |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/sahil1019/DSA/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/sahil1019/DSA/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/sahil1019/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/sahil1019/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/sahil1019/DSA/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/sahil1019/DSA/tree/master/0481-magical-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/sahil1019/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/sahil1019/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Memoization
 |  |
 | ------- |
