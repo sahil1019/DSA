@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/sahil1019/DSA/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/sahil1019/DSA/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/sahil1019/DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0498-diagonal-traverse](https://github.com/sahil1019/DSA/tree/master/0498-diagonal-traverse) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/sahil1019/DSA/tree/master/0419-battleships-in-a-board) |
 | [0427-construct-quad-tree](https://github.com/sahil1019/DSA/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/sahil1019/DSA/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/sahil1019/DSA/tree/master/0498-diagonal-traverse) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sahil1019/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sahil1019/DSA/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/sahil1019/DSA/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/sahil1019/DSA/tree/master/0498-diagonal-traverse) |
 ## Database
 |  |
 | ------- |
