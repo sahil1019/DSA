@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sahil1019/DSA/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/sahil1019/DSA/tree/master/0546-remove-boxes) |
 | [0553-optimal-division](https://github.com/sahil1019/DSA/tree/master/0553-optimal-division) |
+| [0554-brick-wall](https://github.com/sahil1019/DSA/tree/master/0554-brick-wall) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/sahil1019/DSA/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sahil1019/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/sahil1019/DSA/tree/master/0535-encode-and-decode-tinyurl) |
+| [0554-brick-wall](https://github.com/sahil1019/DSA/tree/master/0554-brick-wall) |
 ## Linked List
 |  |
 | ------- |
