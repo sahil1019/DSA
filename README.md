@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/sahil1019/DSA/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sahil1019/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/sahil1019/DSA/tree/master/0605-can-place-flowers) |
+| [0609-find-duplicate-file-in-system](https://github.com/sahil1019/DSA/tree/master/0609-find-duplicate-file-in-system) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/sahil1019/DSA/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/sahil1019/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sahil1019/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0609-find-duplicate-file-in-system](https://github.com/sahil1019/DSA/tree/master/0609-find-duplicate-file-in-system) |
 ## Linked List
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/sahil1019/DSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sahil1019/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0606-construct-string-from-binary-tree](https://github.com/sahil1019/DSA/tree/master/0606-construct-string-from-binary-tree) |
+| [0609-find-duplicate-file-in-system](https://github.com/sahil1019/DSA/tree/master/0609-find-duplicate-file-in-system) |
 ## Sliding Window
 |  |
 | ------- |
