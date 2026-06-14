@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sahil1019/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/sahil1019/DSA/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/sahil1019/DSA/tree/master/0491-non-decreasing-subsequences) |
+| [0493-reverse-pairs](https://github.com/sahil1019/DSA/tree/master/0493-reverse-pairs) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/sahil1019/DSA/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/sahil1019/DSA/tree/master/0475-heaters) |
 | [0483-smallest-good-base](https://github.com/sahil1019/DSA/tree/master/0483-smallest-good-base) |
+| [0493-reverse-pairs](https://github.com/sahil1019/DSA/tree/master/0493-reverse-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/sahil1019/DSA/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sahil1019/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0427-construct-quad-tree](https://github.com/sahil1019/DSA/tree/master/0427-construct-quad-tree) |
+| [0493-reverse-pairs](https://github.com/sahil1019/DSA/tree/master/0493-reverse-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -460,10 +463,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/sahil1019/DSA/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/sahil1019/DSA/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/sahil1019/DSA/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/sahil1019/DSA/tree/master/0493-reverse-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -499,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/sahil1019/DSA/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/sahil1019/DSA/tree/master/0493-reverse-pairs) |
 ## Combinatorics
 |  |
 | ------- |
@@ -525,4 +531,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/sahil1019/DSA/tree/master/0479-largest-palindrome-product) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sahil1019/DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
