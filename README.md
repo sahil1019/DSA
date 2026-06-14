@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/sahil1019/DSA/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/sahil1019/DSA/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/sahil1019/DSA/tree/master/0502-ipo) |
+| [0503-next-greater-element-ii](https://github.com/sahil1019/DSA/tree/master/0503-next-greater-element-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/sahil1019/DSA/tree/master/0456-132-pattern) |
 | [0488-zuma-game](https://github.com/sahil1019/DSA/tree/master/0488-zuma-game) |
 | [0496-next-greater-element-i](https://github.com/sahil1019/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sahil1019/DSA/tree/master/0503-next-greater-element-ii) |
 ## Trie
 |  |
 | ------- |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/sahil1019/DSA/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/sahil1019/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/sahil1019/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sahil1019/DSA/tree/master/0503-next-greater-element-ii) |
 ## Tree
 |  |
 | ------- |
