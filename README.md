@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0468-validate-ip-address](https://github.com/sahil1019/DSA/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/sahil1019/DSA/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/sahil1019/DSA/tree/master/0474-ones-and-zeroes) |
+| [0481-magical-string](https://github.com/sahil1019/DSA/tree/master/0481-magical-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/sahil1019/DSA/tree/master/0457-circular-array-loop) |
 | [0466-count-the-repetitions](https://github.com/sahil1019/DSA/tree/master/0466-count-the-repetitions) |
 | [0475-heaters](https://github.com/sahil1019/DSA/tree/master/0475-heaters) |
+| [0481-magical-string](https://github.com/sahil1019/DSA/tree/master/0481-magical-string) |
 ## Memoization
 |  |
 | ------- |
