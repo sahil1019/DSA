@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/sahil1019/DSA/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/sahil1019/DSA/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/sahil1019/DSA/tree/master/0622-design-circular-queue) |
+| [0630-course-schedule-iii](https://github.com/sahil1019/DSA/tree/master/0630-course-schedule-iii) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/sahil1019/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/sahil1019/DSA/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/sahil1019/DSA/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/sahil1019/DSA/tree/master/0630-course-schedule-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/sahil1019/DSA/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/sahil1019/DSA/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/sahil1019/DSA/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/sahil1019/DSA/tree/master/0630-course-schedule-iii) |
 ## Interactive
 |  |
 | ------- |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/sahil1019/DSA/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/sahil1019/DSA/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/sahil1019/DSA/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/sahil1019/DSA/tree/master/0630-course-schedule-iii) |
 ## Matrix
 |  |
 | ------- |
