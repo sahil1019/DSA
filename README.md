@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/sahil1019/DSA/tree/master/0609-find-duplicate-file-in-system) |
 | [0611-valid-triangle-number](https://github.com/sahil1019/DSA/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/sahil1019/DSA/tree/master/0621-task-scheduler) |
+| [0622-design-circular-queue](https://github.com/sahil1019/DSA/tree/master/0622-design-circular-queue) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/sahil1019/DSA/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/sahil1019/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/sahil1019/DSA/tree/master/0460-lfu-cache) |
+| [0622-design-circular-queue](https://github.com/sahil1019/DSA/tree/master/0622-design-circular-queue) |
 ## Math
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/sahil1019/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/sahil1019/DSA/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/sahil1019/DSA/tree/master/0535-encode-and-decode-tinyurl) |
+| [0622-design-circular-queue](https://github.com/sahil1019/DSA/tree/master/0622-design-circular-queue) |
 ## Randomized
 |  |
 | ------- |
@@ -580,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sahil1019/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/sahil1019/DSA/tree/master/0622-design-circular-queue) |
 ## Geometry
 |  |
 | ------- |
