@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/sahil1019/DSA/tree/master/0605-can-place-flowers) |
 | [0609-find-duplicate-file-in-system](https://github.com/sahil1019/DSA/tree/master/0609-find-duplicate-file-in-system) |
 | [0611-valid-triangle-number](https://github.com/sahil1019/DSA/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/sahil1019/DSA/tree/master/0621-task-scheduler) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/sahil1019/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sahil1019/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/sahil1019/DSA/tree/master/0609-find-duplicate-file-in-system) |
+| [0621-task-scheduler](https://github.com/sahil1019/DSA/tree/master/0621-task-scheduler) |
 ## Linked List
 |  |
 | ------- |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sahil1019/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/sahil1019/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/sahil1019/DSA/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/sahil1019/DSA/tree/master/0621-task-scheduler) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/sahil1019/DSA/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/sahil1019/DSA/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/sahil1019/DSA/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/sahil1019/DSA/tree/master/0621-task-scheduler) |
 ## Interactive
 |  |
 | ------- |
@@ -521,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sahil1019/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/sahil1019/DSA/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/sahil1019/DSA/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/sahil1019/DSA/tree/master/0621-task-scheduler) |
 ## Matrix
 |  |
 | ------- |
@@ -548,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sahil1019/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sahil1019/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/sahil1019/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/sahil1019/DSA/tree/master/0621-task-scheduler) |
 ## Stack
 |  |
 | ------- |
