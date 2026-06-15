@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/sahil1019/DSA/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/sahil1019/DSA/tree/master/0622-design-circular-queue) |
 | [0630-course-schedule-iii](https://github.com/sahil1019/DSA/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sahil1019/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2574-left-and-right-sum-differences](https://github.com/sahil1019/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sahil1019/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/sahil1019/DSA/tree/master/0609-find-duplicate-file-in-system) |
 | [0621-task-scheduler](https://github.com/sahil1019/DSA/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sahil1019/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Linked List
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/sahil1019/DSA/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/sahil1019/DSA/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/sahil1019/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sahil1019/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Design
 |  |
 | ------- |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/sahil1019/DSA/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/sahil1019/DSA/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/sahil1019/DSA/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sahil1019/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -506,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/sahil1019/DSA/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/sahil1019/DSA/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/sahil1019/DSA/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sahil1019/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Interactive
 |  |
 | ------- |
@@ -536,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/sahil1019/DSA/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/sahil1019/DSA/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/sahil1019/DSA/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sahil1019/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Matrix
 |  |
 | ------- |
