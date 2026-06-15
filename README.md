@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/sahil1019/DSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/sahil1019/DSA/tree/master/0593-valid-square) |
 | [0598-range-addition-ii](https://github.com/sahil1019/DSA/tree/master/0598-range-addition-ii) |
+| [0633-sum-of-square-numbers](https://github.com/sahil1019/DSA/tree/master/0633-sum-of-square-numbers) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahil1019/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahil1019/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Recursion
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/sahil1019/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahil1019/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/sahil1019/DSA/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/sahil1019/DSA/tree/master/0633-sum-of-square-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sahil1019/DSA/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sahil1019/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/sahil1019/DSA/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/sahil1019/DSA/tree/master/0633-sum-of-square-numbers) |
 ## Memoization
 |  |
 | ------- |
